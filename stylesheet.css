@@ -109,3 +109,32 @@ p {
 span {
     color: azure;
 }
+
+
+
+@media  (max-width: 767px) {  
+    .word-to-guess{
+        display: flex;
+      
+      }
+    }
+
+
+    .word-box{
+      display: flex;
+      
+      }}
+    
+    @media (max-width: 756px) {  
+    .title a {
+    font-size: 3vw;
+      }}
+    
+    @media (max-width: 756px) {  
+    .title h1{
+    font-size: 8vw;
+      }}
+    @media (max-width: 756px) {  
+    .title p {
+    font-size: 6vw;
+      }}
